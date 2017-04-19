@@ -134,7 +134,7 @@ p {
     text-align: center;
 }
 
-/*h3, */.col-md-4 h2 {
+.col-md-4 h2 {
 	padding-bottom: 20px;
 	margin-bottom: 15px;
 	line-height: 22px;
@@ -170,6 +170,8 @@ p {
 	background-color: rgb(223,194,196);
 }
 
+/*How can I get my sidebar to completely
+	stretch when I shrink screen? Was working in the beg.*/
 
 /*-----PORTFOLIO-----*/
 
